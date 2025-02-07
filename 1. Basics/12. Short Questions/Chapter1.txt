@@ -1,0 +1,58 @@
+Answers in True / False     --->
+
+                    Java Basics
+1. Computer Understand high level languages like Java, C.                    ---> False
+2. An Algorithm is a set of instruction to accomplish a task.                ---> True
+3. Computer is smart enough to ignoor incorrect systax.                      ---> False
+4. Java was first releaesd in 1992.                                          ---> False
+5 Java was named over a person who made good coffee.                         ---> False
+6. Byte code is a plateform independent.                                     ---> True
+7. JDK is a part of JRE                                                      ---> False
+8. It`s optional to declare main method as public.                           ---> False
+9. Class file contain machine code.                                          ---> False
+10. Println adds a new line at the end.                                      ---> True
+
+11. In Java, a variable name can start with a number.                        ---> False
+12. Char in java can store a single character.                               ---> True
+13. Class names in java typically start with a lowercase letter.             ---> False
+14. 100L is a valid long literal in Java.                                    ---> True
+15. \d is an escape sequence in Java for a digit character.                  ---> False 
+16. Scanner class is used for reading console input.                         ---> True
+17. In Java, an int can be automatically converted a byte.                   ---> False
+18. Java variable names are case sensitive.                                  ---> True
+19. Scanner class can be used to read both primitve data types and strings . ---> True
+20. Explict casting is required to convert a double to an int.               ---> True
+
+21. In JAva, && and || opeartors perform short-circuit evaluation.           ---> True
+22. In an if-else statement, the else block executes only when the if conditions is false.---> True
+23. Java allows an if statement without the else part.                       ---> True
+24.  The ^ operator in Java is used for exponentiation.                      ---> False
+25. Unary minus operator can be used to neglate the value of a variable in java.> True
+26. a+=b is equivalent to a=a+b in Java.                                     ---> True
+27. In Java, the binary number system uses base 10.                          ---> False
+28. The number 1010 in binary is equivalent to 10 in decimal.                ---> True
+29. & and | are logiacl operator in Java.                                    ---> False
+30. In Java, a>>2 shifts the binary bits of a to the left by 2 positions.    ---> False
+
+31. A while loop in java contunious to execute as long as it`s condition is true.> True 
+32. The body of while loop will execute at least once, regard of the conditions.-> False
+33. A while loop cannot be used for iterating over an array.                  ---> False
+34. Infinite loops are not possible with while loop in java.                  ---> False
+35. A methods in Java can return more than one value at a time.               ---> False
+36. It`s mandatory for every Java to have a return type.                      ---> True
+37. The size of an array in Java can be modified after its created.           ---> False
+38. Arrays in Java can contain elements of different data types.              ---> False 
+39. An array is a reference type in Java.                                     ---> True
+40. Java arrays are zero-indexed, meaning the first element has an index of 0.---> True   
+
+                      <--- Exception & File Handling --->
+1. A method that throws a checked exception must declare the exception using the throws keyword in its signeture. ---> True
+2. It is possible to handle more than type of exception in a single catch block.                   ---> True
+3. The finally block is always executed, even if a return statement is encountyered in the try or catch block.    ---> True.
+4. If both try and catch block have return statements, the finally block will not execute.         ---> False
+5. You can  throw an exception of any type, using coustom exceptions, using the throw keyword.     ---> True
+6. If a try block does not throw any exception, the catch block is executed for cleanup purpose.   ---> False
+7. Unchecked exception are a direct sub-class of Throwable.                                        ---> False
+8. A catch block can exits independently of a try-block.                                           ---> False
+9. You can nested try blocks within the another try block.                                         ---> True
+10. The throw keyword is used to propograte an exception up the call stack.                        ---> True

@@ -1,0 +1,31 @@
+28. Print the multiplication table.
+29. Sum of all odd numbers from 1 to N.
+30. Calculate Factorial.
+31. Computes sum of the digit of a number.
+32. Find LCM of two numbers.
+33. Find GCD of two numbers.
+34. To check the number is Prime or not.
+35. Reverse the digit of a number.
+36. Print the Fibonacchi series upto a certain number.
+37. To check the number is Armstong or not.
+38. To check the number is Palindrome or not.
+39. Print Triangle Patterns.
+40. Find Sum & Average of an Array.
+41. Find number of Occurances of an element in an Array.
+42. Find Maximum & Minimum element in an Array.
+43. To check the Array is sorted or not.
+44. To return a new Array deleting a specific element.
+45. To print revers an Array.
+46. To check the Array is Palindrome or not.
+47. To Merge two sorted Array.
+48. Search an element in 2-D Array.
+49. Find sum & average in 2-D Array.
+50. Find the Sum of two Diagonal element.
+51.
+52.
+53. To find the minium of two numbers.
+54. To find given number is even or odd.
+55. To calculate absolute value of a number.
+56. Top Find grade using ternary operator.
+57. Print the month of the year using switch.
+58. Create simple calcullator using switch.

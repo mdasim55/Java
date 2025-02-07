@@ -1,0 +1,4 @@
+                Chapter:- > Exception
+1. Write a program to demonstrate Syntax, Logical &Runtime errors.
+2. Write a java program that's prints "Ha!Ha!" during Arithemetic execution and "He!He!" during illegal arguments exception.
+3. Wite a java program that allws you to keep accessing an array until a valid index is given. If max retires 

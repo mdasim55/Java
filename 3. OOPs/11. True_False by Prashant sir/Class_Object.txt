@@ -1,0 +1,12 @@
+Answer in True & False...
+
+1. Object Oriented Programming is mainly concerned with data rather than logic.        ---> True
+2. Instance methods in Java can be called without creating an object of the class.     ---> False
+3. A class is a template that can be used to create objects.                           ---> True
+4. Static methods belong to the class and can be called without an objects.            ---> False
+5. The new keyword is used to declare an arrya in Java.                                ---> True
+6. Variables declare within a method are called instance variable.                     ---> False
+7. In Java, you can access instance variable through static methods directily.         ---> False 
+8. every Object in Java has it`s own unique set of instance variables.                 ---> True
+9. The static keyword in Java measns that a particulaly member belong to a type itself, rather than to instances of that type.  ---> True
+10. variable scope in Java is determined at runtime.                                   ---> False

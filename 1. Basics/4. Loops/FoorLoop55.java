@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class FoorLoop55 {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.print("Enter the number: ");
+        int count=sc.nextInt();
+        for(int i=0;i<=count;i++) {
+            System.out.println("Ayesha.");
+        }
+    }
+}

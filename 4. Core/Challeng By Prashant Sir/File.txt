@@ -1,0 +1,4 @@
+I am a text file.
+It is a java course program.
+I Love you so much.
+I hate you so much.

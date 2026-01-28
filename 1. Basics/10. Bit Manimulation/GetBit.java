@@ -13,5 +13,6 @@ public class GetBit {
         } else {
             System.out.println("The given bit was 1.");
         }
+        sc.close();
     }
 }
